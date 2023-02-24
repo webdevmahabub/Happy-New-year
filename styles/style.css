@@ -189,5 +189,17 @@ input{
   background: #1E1E1E;
 }
 .content{
-  margin: 40px;
+  margin-left: 216px;
+  margin-top: 91px;
+}
+.btn-orange2{
+  color: #fd6e0a;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 18px 35px;
+  height: 64px;
+  border-radius: 5px;
+  background: #ffffff;
+  margin-top: 20px; 
 }
